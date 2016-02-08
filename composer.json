@@ -1,0 +1,17 @@
+{
+    "name": "phpoke/phpoke",
+    "description": "A PHP wrapper for v2 of the Pokéapi",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Chris Hutchinson",
+            "email": "chris_hutchinson@me.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Phpoke\\Phpoke\\": "src"
+        }
+    }
+}
